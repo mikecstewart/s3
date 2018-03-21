@@ -63,10 +63,13 @@ body {
 }
 
 #footer {
+    padding: 1em 0em 3em 0em;
 }
 #footer .back {
+    float: left;
 }
 #footer .next {
+    float: right;
 }
 
 a:link, a:visited {
